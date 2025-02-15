@@ -162,8 +162,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Second part of Airbnb: Joann Vuong
   
-Third Part of Airbnb: Mary Kiige - [Github](https://github.com/Mkiige) / [Linkedin](https://www.linkedin.com/in/mary-kiige/) 
-Third Part of Airbnb: Nicks Gitobu - [Github](https://github.com/nickssilver)
+Third Part of Airbnb: Nomcebo Mncina
                        
 ## License
 Public Domain. No copy write protection. 
